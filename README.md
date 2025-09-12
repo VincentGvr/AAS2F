@@ -83,6 +83,14 @@ Refreshes :
 Metrics App : 
 <img width="1256" height="317" alt="image" src="https://github.com/user-attachments/assets/a1c6faeb-ee1d-43dd-93cd-209e0035e0fd" />
 
+Log Analytics with Model name CU(s) : 
+
+<img width="854" height="521" alt="image" src="https://github.com/user-attachments/assets/fa8e5669-eec6-4a0b-87f1-5f4ba16fede1" />
+
+Log Analytics without Model name CU(s) : 
+
+<img width="879" height="538" alt="image" src="https://github.com/user-attachments/assets/9a1abe3a-e527-4e89-a19b-dcdb29ce438e" />
+
 
 ----------------------------------------------
 AAS QPU : 
