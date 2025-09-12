@@ -2,7 +2,7 @@
 
 ## Scenario
 
-Is there a way to anticipate the consumption in Microsoft Fabric of a Semantic Model (or Tabular Model) that is deployed in Azure Analysis Services (AAS) ?
+**Is there a way to anticipate the consumption in Microsoft Fabric of a Semantic Model (or Tabular Model) that is deployed in Azure Analysis Services (AAS) ?**
 
 If we start from the point where a single model can be deployed in both services, and can be adressed with the same process and queries, then we can compare their consumptions : 
 There is a way to track all queries sent to an AAS Tabular model [^1] and there is a way to track all queries sent to a Fabric Semantic model [^2]. Both logs speak the same langage, called [Trace Events](https://learn.microsoft.com/fr-fr/analysis-services/trace-events/analysis-services-trace-events?view=sql-analysis-services-2025). 
