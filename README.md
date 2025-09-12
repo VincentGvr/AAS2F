@@ -80,6 +80,9 @@ Refreshes :
 
 <img width="817" height="230" alt="image" src="https://github.com/user-attachments/assets/9f330487-0902-49a4-89ce-181c7d9fd632" />
 
+Metrics App : 
+<img width="1256" height="317" alt="image" src="https://github.com/user-attachments/assets/a1c6faeb-ee1d-43dd-93cd-209e0035e0fd" />
+
 
 ----------------------------------------------
 AAS QPU : 
