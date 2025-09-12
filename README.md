@@ -28,13 +28,17 @@ Génération de requête sur le rapport :
 <img width="1453" height="813" alt="image" src="https://github.com/user-attachments/assets/fdc99ca2-5808-4a57-960d-d1ac9df96989" />
 
 Fabric Capacity Metrics : 
+
 <img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/1886db8a-a474-435b-a6bf-8af39ac0e79e" />
 Detail :
+
 <img width="1437" height="336" alt="image" src="https://github.com/user-attachments/assets/eb672229-95c6-490f-8068-60ccfdeff32e" />
 <img width="657" height="726" alt="image" src="https://github.com/user-attachments/assets/b44c3851-be4d-4ccf-a406-f920ce402194" />
 
 In Log Analytics with Request : 
+
 <img width="484" height="259" alt="image" src="https://github.com/user-attachments/assets/b026dd5f-9a75-4733-aaa6-5cf344beea8f" />
+
 41 queries vs 42 ==> 1 missing query = 23.5040 CU(s) ==> 986.1203 + 23.5040 = 1,009.6243
 
 
