@@ -4,7 +4,6 @@ AAS : S0 server
 <img width="1312" height="485" alt="image" src="https://github.com/user-attachments/assets/e46e702a-0256-4c8f-85cc-2073827c27b8" />
 
 Linked to Log Analytics : 
-
 <img width="1077" height="416" alt="image" src="https://github.com/user-attachments/assets/1047a967-e90d-4d99-b0c2-887eca0639a9" />
 
 Fabric : F8 Capacity
