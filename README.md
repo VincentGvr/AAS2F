@@ -7,7 +7,7 @@ Linked to Log Analytics :
 <img width="1077" height="416" alt="image" src="https://github.com/user-attachments/assets/1047a967-e90d-4d99-b0c2-887eca0639a9" />
 
 Fabric : F8 Capacity
-<img width="1091" height="342" alt="image" src="https://github.com/user-attachments/assets/ec1bef3e-9271-42ab-a446-a25fb0299fa5" />
+<img width="1303" height="319" alt="image" src="https://github.com/user-attachments/assets/0680c9f6-9bba-4849-811d-35fd190eed80" />
 
 Fabric Workspace : 
 2 reports pointing towards 2 semantic models :
