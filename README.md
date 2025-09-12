@@ -1,5 +1,7 @@
 # AAS2F
 
+## Scenario
+
 Is there a way to anticipate the consumption in Microsoft Fabric of a Semantic Model (or Tabular Model) that is deployed in Azure Analysis Services (AAS) ?
 
 If we start from the point where a single model can be deployed in both services, and can be adressed with the same process and queries, then we can compare their consumptions : 
@@ -10,7 +12,7 @@ I'm able to execute the same queries on both services, and compare the results. 
 [^1]:thanks to Diagnostic Settings Logs sent to Azure Log Analytics, 
 [^2]:thanks to Log Analytics Workspace link. 
 
-Full Logic : 
+## Full Logic : 
 
 AAS : S0 server
 <img width="1312" height="485" alt="image" src="https://github.com/user-attachments/assets/e46e702a-0256-4c8f-85cc-2073827c27b8" />
