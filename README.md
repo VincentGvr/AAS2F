@@ -1,6 +1,6 @@
-# AAS2F
+# Azure Analysis Services compute usage projection to Microsoft Fabric
 
-## Introduction 
+##  Introduction 
 
 **What is the goal of this Github repository ?**
 
