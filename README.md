@@ -28,3 +28,10 @@ If Microsoft Fabric & AAS produce the same compute usage, it means that I can si
 
 [^1]:thanks to Diagnostic Settings Logs sent to Azure Log Analytics, 
 [^2]:thanks to Log Analytics Workspace link. 
+
+## The outcomes : 
+
+<img width="1343" height="757" alt="image" src="https://github.com/user-attachments/assets/31338871-d4fb-4fca-b3b6-512f5e6b12b6" />
+
+
+## How to use it 
