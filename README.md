@@ -33,6 +33,9 @@ Detail :
 <img width="1437" height="336" alt="image" src="https://github.com/user-attachments/assets/eb672229-95c6-490f-8068-60ccfdeff32e" />
 <img width="657" height="726" alt="image" src="https://github.com/user-attachments/assets/b44c3851-be4d-4ccf-a406-f920ce402194" />
 
+In Log Analytics with Request : 
+<img width="484" height="259" alt="image" src="https://github.com/user-attachments/assets/b026dd5f-9a75-4733-aaa6-5cf344beea8f" />
+41 queries vs 42 ==> 1 missing query = 23.5040 CU(s) ==> 986.1203 + 23.5040 = 1,009.6243
 
 
 ----------------------------------------------
