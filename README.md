@@ -31,6 +31,7 @@ Fabric Capacity Metrics :
 <img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/1886db8a-a474-435b-a6bf-8af39ac0e79e" />
 Detail :
 <img width="1437" height="336" alt="image" src="https://github.com/user-attachments/assets/eb672229-95c6-490f-8068-60ccfdeff32e" />
+<img width="657" height="726" alt="image" src="https://github.com/user-attachments/assets/b44c3851-be4d-4ccf-a406-f920ce402194" />
 
 
 
