@@ -31,7 +31,14 @@ If Microsoft Fabric & AAS produce the same compute usage, it means that I can si
 
 ## The outcomes : 
 
+AAS Real Usage : 
 <img width="1343" height="757" alt="image" src="https://github.com/user-attachments/assets/31338871-d4fb-4fca-b3b6-512f5e6b12b6" />
+
+Projected Smoothing :  
+<img width="2688" height="1509" alt="image" src="https://github.com/user-attachments/assets/4372407d-f7a9-4fdb-a0f2-23cc4739fda1" />
+
+Projected Bursting : 
+<img width="2687" height="1504" alt="image" src="https://github.com/user-attachments/assets/3afdce7f-f266-4e05-85f3-809f3fe2014d" />
 
 
 ## How to use it 
