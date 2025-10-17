@@ -4,4 +4,9 @@ Create Trace :
 
 Change path to trace :
 
-<img width="1786" height="598" alt="image" src="https://github.com/user-attachments/assets/2868c6c4-07e1-4963-a646-5a756c0764d6" />
+<img width="1486" height="304" alt="image" src="https://github.com/user-attachments/assets/522e5513-31a4-45d1-aded-a884c0d74e5b" />
+
+Execute query to create trace, verify folder if created. 
+
+Do anything to test consumptions (if prod, wait for actions). For instance, process cube : 
+<img width="773" height="406" alt="image" src="https://github.com/user-attachments/assets/96d3fdb8-fd17-4549-b28b-9d0e49cf933a" />
