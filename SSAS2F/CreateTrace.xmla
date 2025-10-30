@@ -8,11 +8,11 @@
        xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300">
 	<ObjectDefinition>
 		<Trace>
-			<ID>XE_Trace_viguyonv_SSAS_Tabluar</ID>
-			<Name>XE_Trace_viguyonv_SSAS_Tabluar</Name>
+			<ID>XE_Trace_viguyonv_SSAS_Tabular</ID>
+			<Name>XE_Trace_viguyonv_SSAS_Tabular</Name>
 			<ddl300_300:XEvent>
 				<event_session 
-					name="XE_Trace_viguyonv_SSAS_Tabluar"
+					name="XE_Trace_viguyonv_SSAS_Tabular"
 					dispatchLatency="1"
 					maxEventSize="4"
 					maxMemory="4"
@@ -27,7 +27,7 @@
 					<event package="AS" name="DiscoveryEnd"/>
 					
 					<target package="Package0" name="event_file">
-						<parameter name="filename" value="C:\TraceOutput\XE_Trace_viguyonv_SSAS_Tabluar.xel" />
+						<parameter name="filename" value="C:\TraceOutput\XE_Trace_viguyonv_SSAS_Tabular.xel" />
 						<parameter name="max_file_size" value="1024" />
 						<parameter name="max_rollover_files" value="20" />
 					</target>
