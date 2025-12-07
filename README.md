@@ -1,4 +1,4 @@
-# Azure Analysis Services compute usage projection to Microsoft Fabric
+# Analysis Services Legacy (AAS or SSAS) compute usage projection to Power BI/Microsoft Fabric
 
 ## Plan 
 
