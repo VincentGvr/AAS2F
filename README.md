@@ -45,11 +45,7 @@ Download the .pbit from the repository.
 
 Open the .pbit using Power BI desktop and fill in the parameters respecting the notes. All parameters can be updated after first refresh : 
 
-<img width="1049" height="1066" alt="image" src="https://github.com/user-attachments/assets/d1feda73-5e6b-4377-842c-fe42145c44a2" />
-
-1. Log Analytics Workspace Id is found on the Log Analytics Overview page : 
-
-<img width="1401" height="372" alt="image" src="https://github.com/user-attachments/assets/20fbc91f-12ec-4280-88b3-09521cbb2fea" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d1feda73-5e6b-4377-842c-fe42145c44a2" />
 
 1. Log Analytics (AAS) or KQL Endpoint (SSAS) ? Is a two options array. Depends on the type of analysis you do.
 2. <Option 1> If you chose Log Analytics, paste here the Log Analytics Workspace Id.  
@@ -60,6 +56,10 @@ Open the .pbit using Power BI desktop and fill in the parameters respecting the 
 7. ratio is the applied ratio coming from cpu to CU(s). May vary depending on the hardware, from best to worst scenario observed.
 8. dateFrom is the start date of the Logs projected. Warning ! KQL Table can only return max 500 000 rows. Date Table will be auto limited to 5 days and 16 hours.  
 9. dateTo is the end date of the Logs projected. Warning ! KQL Table can only return max 500 000 rows. Date Table will be auto limited to 5 days and 16 hours. Adapt dateTo to maximum 
+
+Log Analytics Workspace Id is found on the Log Analytics Overview page : 
+
+<img width="1401" height="372" alt="image" src="https://github.com/user-attachments/assets/20fbc91f-12ec-4280-88b3-09521cbb2fea" />
 
 When filled in, click Load. 
 
