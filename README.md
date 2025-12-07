@@ -45,18 +45,21 @@ Download the .pbit from the repository.
 
 Open the .pbit using Power BI desktop and fill in the parameters respecting the notes. All parameters can be updated after first refresh : 
 
-<img width="1448" height="1175" alt="image" src="https://github.com/user-attachments/assets/c8449122-b073-44e7-a164-c10ba56dc3b1" />
+<img width="1049" height="1066" alt="image" src="https://github.com/user-attachments/assets/d1feda73-5e6b-4377-842c-fe42145c44a2" />
 
 1. Log Analytics Workspace Id is found on the Log Analytics Overview page : 
 
 <img width="1401" height="372" alt="image" src="https://github.com/user-attachments/assets/20fbc91f-12ec-4280-88b3-09521cbb2fea" />
 
-2. serverName is the name of the Azure Analysis Services server
-3. databaseName is the name of the model deployed on the Azure Analysis Services server
-4. capacitySize is the projected size of the capacity.
-5. ratio is the applied ratio coming from cpu to CU(s). May vary depending on the hardware, from best to worst scenario observed.
-6. dateFrom is the start date of the Logs projected  
-7. dateTo is the end date of the Logs projected
+1. Log Analytics (AAS) or KQL Endpoint (SSAS) ? Is a two options array. Depends on the type of analysis you do.
+2. <Option 1> If you chose Log Analytics, paste here the Log Analytics Workspace Id.  
+3. <Option 2> If you chose KQL Endpoint, paste here the KQL Endpoint url. 
+4. <Optionnal> serverName is the name of the Azure Analysis Services server
+5. <Optionnal> databaseName is the name of the model deployed on the Azure Analysis Services server
+6. capacitySize is the projected size of the capacity.
+7. ratio is the applied ratio coming from cpu to CU(s). May vary depending on the hardware, from best to worst scenario observed.
+8. dateFrom is the start date of the Logs projected. Warning ! KQL Table can only return max 500 000 rows. Date Table will be auto limited to 5 days and 16 hours.  
+9. dateTo is the end date of the Logs projected. Warning ! KQL Table can only return max 500 000 rows. Date Table will be auto limited to 5 days and 16 hours. Adapt dateTo to maximum 
 
 When filled in, click Load. 
 
